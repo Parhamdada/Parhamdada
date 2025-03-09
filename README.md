@@ -1,4 +1,7 @@
+# Parhamdada
 ## Hi there 👋
+
+I'm Parham, working on IC design with a passion for coding.
 
 <!--
 **Parhamdada/Parhamdada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
